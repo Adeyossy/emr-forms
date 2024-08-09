@@ -1,0 +1,140 @@
+// GERIATRIC DEPRESSION SCALE - 15
+const options = ["No (0)", "Yes (1)", "N/A (2)"];
+
+const gdsItems = [
+  [
+    ["No (0)", "Yes (1)", "N/A (2)"],
+    "basicallysatisfied",
+    0,
+    2,
+    "Are you basically satisfied with your life?",
+    "",
+    ""
+  ],
+  [
+    ["No (0)", "Yes (1)", "N/A (2)"],
+    "droppedactivitiesandinterests",
+    0,
+    2,
+    "Have you dropped many of your activities and interests?",
+    "",
+    ""
+  ],
+  [
+    ["No (0)", "Yes (1)", "N/A (2)"],
+    "feellifeempty",
+    0,
+    2,
+    "Do you feel that your life is empty?",
+    "",
+    ""
+  ],
+  [
+    ["No (0)", "Yes (1)", "N/A (2)"],
+    "oftengetbored",
+    0,
+    2,
+    "Do you often get bored?",
+    "",
+    ""
+  ],
+  [
+    ["No (0)", "Yes (1)", "N/A (2)"],
+    "goodspirits",
+    0,
+    2,
+    "Are you in good spirits most of the time?",
+    "",
+    ""
+  ],
+  [
+    ["No (0)", "Yes (1)", "N/A (2)"],
+    "afraidsomethingbad",
+    0,
+    2,
+    "Are you afraid that something bad is going to happen to you?",
+    "",
+    ""
+  ],
+  [
+    options,
+    "feelhappymosttime",
+    0,
+    2,
+    "Do you feel happy most of the time?",
+    "",
+    ""
+  ],
+  [
+    options,
+    "oftenfeelhelpless",
+    0,
+    2,
+    "Do you often feel helpless?",
+    "",
+    "",
+  ],
+  [
+    options,
+    "prefertostayathome",
+    0,
+    2,
+    "Do you prefer to stay at home, rather than going out and doing new things?",
+    "",
+    "",
+  ],
+  [
+    options,
+    "moreprobelmswithmemories",
+    0,
+    2,
+    "Do you feel you have more problems with memories than most?",
+    "",
+    "",
+  ],
+  [
+    options,
+    "thinkitiswonderfultobealive",
+    0,
+    2,
+    "Do you think it is wonderful to be alive?",
+    "",
+    "",
+  ],
+  [
+    options,
+    "feelprettyworthless",
+    0,
+    2,
+    "Do you feel pretty worthless the way you are now?",
+    "",
+    "",
+  ],
+  [
+    options,
+    "feelfullofenergy",
+    0,
+    2,
+    "Do you feel full of energy?",
+    "",
+    "",
+  ],
+  [
+    options,
+    "feelsituationishopeless",
+    0,
+    2,
+    "Do you feel that you situation is hopeless?",
+    "",
+    "",
+  ],
+  [
+    options,
+    "mostpeoplearebetteroff",
+    0,
+    2,
+    "Do you think that most people are better off than you are?",
+    "",
+    "",
+  ],
+]
